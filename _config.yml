@@ -1,11 +1,11 @@
 # Site settings
-author: Darin Webster
-title: 
+author: Darin "Gadol" Lee
+title: Closed Mandibles Don't Get Fed
 header-img: img/home-bg.png
 email: darinleenavy@gmail.com
-copyright_name: Darin Webster
+copyright_name: Darin "Gadol" Lee
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Life Through A Submariner's Eyes
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  darinleejr
